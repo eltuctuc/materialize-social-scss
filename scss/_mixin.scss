@@ -1,0 +1,18 @@
+
+/// [social description]
+/// @param  {color} $color-bg [description]
+/// @param  {color} $color    [#fff]        [description]
+/// @return {void}            [description]
+
+@mixin social($color-bg, $color: #fff) {
+    background-color: $color-bg !important;
+    color: $color !important;
+
+    i {
+      color: $color !important;
+    }
+
+    &:hover {
+      background-color: lighten($color-bg, 10%) !important;
+    }
+}
