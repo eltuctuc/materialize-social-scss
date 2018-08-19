@@ -1,0 +1,36 @@
+{
+  "name": "materialize-social-scss",
+  "version": "0.0.1",
+  "description": "Social login buttons with font-awesome icons for MaterializeCSS based on https://terrymooreii.github.io/materialize-social/",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass --include-path scss scss/materialize-social.scss css/materialize-social.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eltuctuc/materialize-social-scss.git"
+  },
+  "keywords": [
+    "icon",
+    "materialize",
+    "materializecss",
+    "css",
+    "sass",
+    "material",
+    "design"
+  ],
+  "author": "Enrico Reinsdorf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eltuctuc/materialize-social-scss/issues"
+  },
+  "homepage": "https://github.com/eltuctuc/materialize-social-scss#readme",
+  "dependencies": {
+    "fontawesome": "^4.7.2",
+    "materializecss": "^1.0.11"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
