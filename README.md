@@ -1,4 +1,5 @@
 # materialize-social-scss
+
 based on Social Login Buttons for MaterializeCSS from
 
 
@@ -6,7 +7,7 @@ How to install
 -------------
 
 ```
-npm install --save materialize-social
+npm install --save materialize-social-scss
 ```
 
 
