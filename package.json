@@ -20,7 +20,7 @@
     "material",
     "design"
   ],
-  "author": "Enrico Reinsdorf",
+  "author": "Enrico Reinsdorf <enrico.reinsdorf@re-design.de> (http://re-design.de)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eltuctuc/materialize-social-scss/issues"
