@@ -1,6 +1,6 @@
 {
   "name": "materialize-social-scss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Social login buttons with font-awesome icons for MaterializeCSS based on https://terrymooreii.github.io/materialize-social/",
   "main": "index.js",
   "scripts": {
